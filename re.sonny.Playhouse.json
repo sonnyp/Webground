@@ -1,7 +1,7 @@
 {
   "id": "re.sonny.Playhouse",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "44",
+  "runtime-version": "46",
   "sdk": "org.gnome.Sdk",
   "command": "re.sonny.Playhouse",
   "finish-args": [
